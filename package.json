@@ -1,25 +1,16 @@
 {
-  "name": "jest-another-rpg",
+  "name": "rpg",
   "version": "1.0.0",
-  "description": "RPG dame development to learn OOP and TDD",
+  "description": "",
   "main": "app.js",
   "scripts": {
     "test": "jest"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/RauchDavis13/Mod10-jest-another-RPG.git"
-  },
-  "keywords": [
-    "rpg"
-  ],
-  "author": "Kenneth Rauch Davis",
+  "keywords": [],
+  "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/RauchDavis13/Mod10-jest-another-RPG/issues"
-  },
-  "homepage": "https://github.com/RauchDavis13/Mod10-jest-another-RPG#readme",
-  "devDependencies": {
-    "jest": "^27.4.5"
+  "dependencies": {
+    "inquirer": "^7.0.3",
+    "jest": "^24.9.0"
   }
 }
